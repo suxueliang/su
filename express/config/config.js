@@ -1,0 +1,16 @@
+module.exports={
+  dev_sql_config:{
+    host:"127.0.0.1",
+    port:"3306",
+    user:"root",
+    password:"qq6228503.",
+    database:"blog_sql"
+  },
+  product_sql_config:{
+    host:"39.106.182.0",
+    port:"3306",
+    user:"root",
+    password:"qq6228503.",
+    database:"blog_sql"
+  }
+}
